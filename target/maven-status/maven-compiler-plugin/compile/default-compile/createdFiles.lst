@@ -1,2 +1,2 @@
-active\Sender.class
-active\Receiver.class
+active\Producer.class
+active\Consumer.class
